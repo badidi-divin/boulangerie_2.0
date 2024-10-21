@@ -1,0 +1,14 @@
+    /** Pour creer un decallage **/
+            .spacer{
+                margin-top: 30px;
+            }
+            .space{
+                margin-top: 60px;
+            }
+            .spac{
+                margin-top: 100px;
+            }
+            .a{
+                text-align:center;
+                text-decoration: blink;
+            }
